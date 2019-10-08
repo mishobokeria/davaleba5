@@ -1,0 +1,61 @@
+body{
+	background-color: #22B573;
+}
+/*header*/
+.container{
+	width: 1158px;
+	margin: 63px auto 63px auto;
+
+}
+.display-inline-block{
+	display: inline-block;
+}
+.float-right{
+	float: right;
+}
+.float-left{
+	float: left;
+}
+
+.logo{
+	width: 200px;
+	float: right;
+}
+.nav{
+	float: right;
+}
+.nav-a{
+	font-size: 48px;
+	color: white;
+}
+.nav-li{
+	margin-right: 50px;
+}
+.clear{
+	clear: both;
+}
+.main-header{
+   margin-top: 50px;
+   margin-right: 60px;
+}
+/*end header*/
+/*secti1n*/
+.article1{
+	background-color: yellow;
+	width: 617px;
+	height: 400px;
+}
+.article2{
+	background-color: yellow;
+	width: 523px;
+	height: 400px;
+}
+.article-p{
+	margin-bottom: 20px;
+	padding: 20px;
+}
+.img{
+	padding: 20px;
+}
+
+/*end section*/
